@@ -1,6 +1,8 @@
 # EyeMouseControll
 Initially i hadn't added the readme.txt as i had kept the project for my self but
-as i have shared in my answer and all of sudden there were number of queries from people hence i have decided to add the instructions
+as i have shared in my answer
+https://www.quora.com/What-is-the-coolest-thing-you-have-ever-created-alone-as-a-programmer/answer/Nikhil-Wayal?srid=FDgp 
+and all of sudden there were number of queries from people hence i have decided to add the instructions
 to guide the quora community in creating the project.
 step 1:- solder the ir as per the image uploaded and make the connection for the ir sensor to arduino uno analog pin.
 step 2:- by using the arduino IDE,Connect the arduino uno model to commport of pc using the arduino uno connector and upload the code(burn) to arduino 
